@@ -21,7 +21,7 @@ Before submission please check:
 
 
  Please enter information of group members below (e.g.: Full Name: WTemail):
-    - Member1:
+    - Member1: 
     - Member2:
     - Member3:
     - Member4:
